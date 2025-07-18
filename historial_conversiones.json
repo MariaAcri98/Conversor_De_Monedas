@@ -1,8 +1,9 @@
 [
   {
-    "monedaBase": "ARS",
-    "monedaObjetivo": "BRL",
-    "cantidad": 1.46546456E8,
-    "resultado": 644854.23219504
+    "monedaBase": "MXN",
+    "monedaObjetivo": "ARS",
+    "cantidad": 4545454.0,
+    "resultado": 3.1149548998417306E8,
+    "fechaHora": "2025-07-18T17:35:09.7930072"
   }
 ]
