@@ -69,6 +69,6 @@ El hitorial se guarda automáticamente en un archivo JSON:
 Este proyecto fue desarrollado por Maria Acri como parte del desafío final del programa 
 **ONE (Oracle Next Education)** de **Alura**.
 
--Contacto: acrimaria2@gmail.com
+- Contacto: acrimaria2@gmail.com
 
--Linkedn: https://www.linkedin.com/in/maria-acri-75a4a0343/
+- Linkedn: https://www.linkedin.com/in/maria-acri-75a4a0343/
